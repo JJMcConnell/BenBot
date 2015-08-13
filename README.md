@@ -1,5 +1,5 @@
 # BenBot
-***
+
 ## A Benjamin Franklin twitter bot (https://twitter.com/WiseOldFranklin)
 
 Uses a quote generating api (https://theysaidso.com/api/) along with the twitter api in order to tweet a random quote everyday and misattribute it to Benjamin Franklin. Written entirely in Ruby and hosted via Heroku.  
